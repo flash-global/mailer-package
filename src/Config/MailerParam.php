@@ -1,12 +1,12 @@
 <?php
-namespace ObjectivePHP\Package\Mailer\Config;
+namespace Fei\Service\Mailer\Package\Config;
 
 use ObjectivePHP\Config\SingleValueDirective;
 
 /**
  * Class MailerParam
  *
- * @package ObjectivePHP\Package\Mailer\Config
+ * @package Fei\Service\Mailer\Package\Config
  */
 class MailerParam extends SingleValueDirective
 {

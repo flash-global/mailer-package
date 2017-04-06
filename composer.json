@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "ObjectivePHP\\Package\\": "src/"
+            "Fei\\Service\\Mailer\\Package\\": "src/"
         }
     },
     "repositories": [
