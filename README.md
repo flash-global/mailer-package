@@ -39,7 +39,7 @@ class Application extends AbstractApplication
 }
 ```
 
-The name of the service will be filer.client. If you want to rename it, you can plug the package like this:
+The name of the service will be mailer.client. If you want to rename it, you can plug the package like this:
 
 ```
         // Plugging the Mailer Package in the bootstrap step

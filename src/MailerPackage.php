@@ -27,7 +27,7 @@ class MailerPackage
      *
      * @param string $serviceIdentifier
      */
-    public function __construct(string $serviceIdentifier = 'filer.client')
+    public function __construct(string $serviceIdentifier = 'mailer.client')
     {
         $this->identifier = $serviceIdentifier;
     }
